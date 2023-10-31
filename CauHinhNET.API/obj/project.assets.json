@@ -2435,11 +2435,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\CauHinhNET\\CauHinhNET.API\\CauHinhNET.API.csproj",
+      "projectUniqueName": "D:\\CauHinhNETCore\\CauHinhNET.API\\CauHinhNET.API.csproj",
       "projectName": "CauHinhNET.API",
-      "projectPath": "D:\\C#\\CauHinhNET\\CauHinhNET.API\\CauHinhNET.API.csproj",
+      "projectPath": "D:\\CauHinhNETCore\\CauHinhNET.API\\CauHinhNET.API.csproj",
       "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\CauHinhNET\\CauHinhNET.API\\obj\\",
+      "outputPath": "D:\\CauHinhNETCore\\CauHinhNET.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2461,8 +2461,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\C#\\CauHinhNET\\CauHinh.DataAccess\\CauHinhNET.DataAccess.csproj": {
-              "projectPath": "D:\\C#\\CauHinhNET\\CauHinh.DataAccess\\CauHinhNET.DataAccess.csproj"
+            "D:\\CauHinhNETCore\\CauHinh.DataAccess\\CauHinhNET.DataAccess.csproj": {
+              "projectPath": "D:\\CauHinhNETCore\\CauHinh.DataAccess\\CauHinhNET.DataAccess.csproj"
             }
           }
         }

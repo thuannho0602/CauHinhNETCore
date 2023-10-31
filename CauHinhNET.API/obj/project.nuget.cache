@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uV1L5pxbLTHKITU8XaTEPKbTZzhxQrh89jejrTRDGdaX8gv2Lj6mQKOHjTfE88HcIGj3RE68UvMdqyTTfvoejQ==",
+  "dgSpecHash": "+HI8eyqBsCZ8Y132f/2lWiVSysI2rXbUDReuHysU5JJ8h4Y49vsC8SdvFJEbUP5ICAoQI+eSpuhNfP8M5mfb7Q==",
   "success": true,
-  "projectFilePath": "D:\\C#\\CauHinhNET\\CauHinhNET.API\\CauHinhNET.API.csproj",
+  "projectFilePath": "D:\\CauHinhNETCore\\CauHinhNET.API\\CauHinhNET.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AD\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\AD\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\CauHinhNET\\CauHinhNET.Model\\CauHinhNET.Model.csproj",
+      "projectUniqueName": "D:\\CauHinhNETCore\\CauHinhNET.Model\\CauHinhNET.Model.csproj",
       "projectName": "CauHinhNET.Model",
-      "projectPath": "D:\\C#\\CauHinhNET\\CauHinhNET.Model\\CauHinhNET.Model.csproj",
+      "projectPath": "D:\\CauHinhNETCore\\CauHinhNET.Model\\CauHinhNET.Model.csproj",
       "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\CauHinhNET\\CauHinhNET.Model\\obj\\",
+      "outputPath": "D:\\CauHinhNETCore\\CauHinhNET.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,3 +10,15 @@ D:\C#\CauHinhNET\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.dl
 D:\C#\CauHinhNET\CauHinhNET.Repository\obj\Debug\net6.0\refint\CauHinhNET.Repository.dll
 D:\C#\CauHinhNET\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.pdb
 D:\C#\CauHinhNET\CauHinhNET.Repository\obj\Debug\net6.0\ref\CauHinhNET.Repository.dll
+D:\CauHinhNETCore\CauHinhNET.Repository\bin\Debug\net6.0\CauHinhNET.Repository.deps.json
+D:\CauHinhNETCore\CauHinhNET.Repository\bin\Debug\net6.0\CauHinhNET.Repository.dll
+D:\CauHinhNETCore\CauHinhNET.Repository\bin\Debug\net6.0\CauHinhNET.Repository.pdb
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.csproj.AssemblyReference.cache
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.AssemblyInfoInputs.cache
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.AssemblyInfo.cs
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.csproj.CoreCompileInputs.cache
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.dll
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\refint\CauHinhNET.Repository.dll
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\CauHinhNET.Repository.pdb
+D:\CauHinhNETCore\CauHinhNET.Repository\obj\Debug\net6.0\ref\CauHinhNET.Repository.dll

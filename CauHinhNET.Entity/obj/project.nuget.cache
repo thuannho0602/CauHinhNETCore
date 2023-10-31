@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CxJSTpz3BL0hWbN91pgHdPG2qZuhdJeTK9bOWhwtsZLdVgcHZP7l5yvKY3Mc2qquOpn+j2ttYGzYa/EramPY/w==",
+  "dgSpecHash": "KcD+maQAsGQeW/D0dQTCwm/ZKzHV3IvneH/MyjiXb6tzAQDeY6M34FDEpIdK5Gpf8vDmuFYBQvD/LrcVYXGtEQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\CauHinhNET\\CauHinhNET.Entity\\CauHinhNET.Entity.csproj",
+  "projectFilePath": "D:\\CauHinhNETCore\\CauHinhNET.Entity\\CauHinhNET.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
