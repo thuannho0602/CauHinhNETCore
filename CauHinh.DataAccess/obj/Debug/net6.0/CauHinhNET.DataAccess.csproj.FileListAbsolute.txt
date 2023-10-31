@@ -1,0 +1,15 @@
+D:\C#\CauHinhNET\CauHinh.DataAccess\bin\Debug\net6.0\CauHinhNET.DataAccess.deps.json
+D:\C#\CauHinhNET\CauHinh.DataAccess\bin\Debug\net6.0\CauHinhNET.DataAccess.dll
+D:\C#\CauHinhNET\CauHinh.DataAccess\bin\Debug\net6.0\CauHinhNET.DataAccess.pdb
+D:\C#\CauHinhNET\CauHinh.DataAccess\bin\Debug\net6.0\CauHinhNET.Entity.dll
+D:\C#\CauHinhNET\CauHinh.DataAccess\bin\Debug\net6.0\CauHinhNET.Entity.pdb
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.csproj.AssemblyReference.cache
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.AssemblyInfoInputs.cache
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.AssemblyInfo.cs
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.csproj.CopyComplete
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.dll
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\refint\CauHinhNET.DataAccess.dll
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\CauHinhNET.DataAccess.pdb
+D:\C#\CauHinhNET\CauHinh.DataAccess\obj\Debug\net6.0\ref\CauHinhNET.DataAccess.dll
