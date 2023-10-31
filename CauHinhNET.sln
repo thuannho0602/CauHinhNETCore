@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauHinhNET.API", "CauHinhNET.API\CauHinhNET.API.csproj", "{DD6D0C37-AA13-44B6-A92D-325B80BD052A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CauHinhNET.API", "CauHinhNET.API\CauHinhNET.API.csproj", "{DD6D0C37-AA13-44B6-A92D-325B80BD052A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauHinhNET.DataAccess", "CauHinh.DataAccess\CauHinhNET.DataAccess.csproj", "{72461259-BCF6-4510-B094-6B93A94CA539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CauHinhNET.DataAccess", "CauHinh.DataAccess\CauHinhNET.DataAccess.csproj", "{72461259-BCF6-4510-B094-6B93A94CA539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauHinhNET.Entity", "CauHinhNET.Entity\CauHinhNET.Entity.csproj", "{067FA57F-447F-4B53-843A-EC2EDCDFD2D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CauHinhNET.Entity", "CauHinhNET.Entity\CauHinhNET.Entity.csproj", "{067FA57F-447F-4B53-843A-EC2EDCDFD2D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauHinhNET.Model", "CauHinhNET.Model\CauHinhNET.Model.csproj", "{6B065051-6C27-4E8D-A61F-499F142C0F3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CauHinhNET.Model", "CauHinhNET.Model\CauHinhNET.Model.csproj", "{6B065051-6C27-4E8D-A61F-499F142C0F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauHinhNET.Repository", "CauHinhNET.Repository\CauHinhNET.Repository.csproj", "{33186E75-AEED-494A-B90E-AABA60577BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CauHinhNET.Repository", "CauHinhNET.Repository\CauHinhNET.Repository.csproj", "{33186E75-AEED-494A-B90E-AABA60577BB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauHinhNET.Service", "CauHinhNET.Service\CauHinhNET.Service.csproj", "{A208A900-EA03-4606-BFD1-E9F4C2D98076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CauHinhNET.Service", "CauHinhNET.Service\CauHinhNET.Service.csproj", "{A208A900-EA03-4606-BFD1-E9F4C2D98076}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{DC505F37-6BF5-4BB8-9ADD-2BB6B767B637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CauHinh.Lib", "CauHinh.Lib\CauHinh.Lib.csproj", "{6CA9C355-2D62-449E-AA2F-B16EA0B7BB8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,9 +49,16 @@ Global
 		{A208A900-EA03-4606-BFD1-E9F4C2D98076}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A208A900-EA03-4606-BFD1-E9F4C2D98076}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A208A900-EA03-4606-BFD1-E9F4C2D98076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA9C355-2D62-449E-AA2F-B16EA0B7BB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA9C355-2D62-449E-AA2F-B16EA0B7BB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA9C355-2D62-449E-AA2F-B16EA0B7BB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA9C355-2D62-449E-AA2F-B16EA0B7BB8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CA9C355-2D62-449E-AA2F-B16EA0B7BB8A} = {DC505F37-6BF5-4BB8-9ADD-2BB6B767B637}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {968D2427-955D-481F-8175-330DEDE0F831}

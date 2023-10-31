@@ -1,0 +1,12 @@
+D:\CauHinhNETCore\CauHinh.Lib\bin\Debug\net6.0\CauHinh.Lib.deps.json
+D:\CauHinhNETCore\CauHinh.Lib\bin\Debug\net6.0\CauHinh.Lib.dll
+D:\CauHinhNETCore\CauHinh.Lib\bin\Debug\net6.0\CauHinh.Lib.pdb
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\CauHinh.Lib.csproj.AssemblyReference.cache
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\CauHinh.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\CauHinh.Lib.AssemblyInfoInputs.cache
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\CauHinh.Lib.AssemblyInfo.cs
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\CauHinh.Lib.csproj.CoreCompileInputs.cache
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\CauHinh.Lib.dll
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\refint\CauHinh.Lib.dll
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\CauHinh.Lib.pdb
+D:\CauHinhNETCore\CauHinh.Lib\obj\Debug\net6.0\ref\CauHinh.Lib.dll
